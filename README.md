@@ -4,7 +4,7 @@
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=taiseisunaga&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/taiseisunaga/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiseisunaga&layout=compact&theme=tokyonight)](https://github.com/taiseisunaga/)
 
 <!--
 **taiseisunaga/taiseisunaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
